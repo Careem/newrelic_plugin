@@ -2,6 +2,8 @@
 name = "newrelic_plugin"
 version = "0.1.0"
 authors = ["msamir"]
+description = "New Relic Rust Plugin Agent SDK"
+license = "Apache-2.0/MIT"
 
 [dependencies]
 chrono = "0.4"
